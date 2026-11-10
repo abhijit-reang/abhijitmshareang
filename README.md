@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhijit_msha_reang?cplk=MWRhaGR4NXYwNW5ubQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-reang-992a0034b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](abhijitreang947@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijitreang947@gmail.com)
+
 🐍Chobo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijitmshareang/abhijitmshareang/output/github-contribution-grid-snake-dark.svg">
