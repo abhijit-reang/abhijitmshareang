@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="384" height="124" alt="image" src="https://github.com/user-attachments/assets/a4f92297-7866-4162-8d61-d6f548427bdc" />
-
+🐍Chobo
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhijitmshareang/abhijitmshareang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhijitmshareang/abhijitmshareang/output/github-contribution-grid-snake.svg">
