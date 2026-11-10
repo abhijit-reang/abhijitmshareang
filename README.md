@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 🌐 Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abhijit msha reang)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/abhijit_msha_reang?cplk=MWRhaGR4NXYwNW5ubQ==)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23BD081C.svg?logo=pinterest&logoColor=white)](https://pinterest.com/YOUR_PINTEREST_USERNAME)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhijitreang947@gmail.com)
