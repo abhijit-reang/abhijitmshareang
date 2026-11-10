@@ -1,4 +1,4 @@
-## Hi I'm Abhijit Reang
+## Hi I'm Abhijit Msha Reang! 👋
 
 <!--
 **abhijitmshareang/abhijitmshareang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
